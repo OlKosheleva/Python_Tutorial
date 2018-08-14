@@ -1,3 +1,5 @@
 x = 'Hello World!'
-print(xxx)
+print(x)
 
+y = ['fox','wolf']
+print(y)
